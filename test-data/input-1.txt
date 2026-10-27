@@ -1,0 +1,5 @@
+# Create a ship with atleast 2 stocked torpedo
+GT4500,2,0,0,0
+TORPEDO,ALL  # should be success
+TORPEDO,ALL  # need to fix
+TORPEDO,ALL  # should be FAIL
