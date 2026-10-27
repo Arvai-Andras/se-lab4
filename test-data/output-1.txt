@@ -1,4 +1,4 @@
-SUCCESS #create ship
-SUCCESS #1. launch
-SUCCESS # fix
-FAIL	#2. laucnh
+SUCCESS
+SUCCESS
+SUCCESS
+FAIL

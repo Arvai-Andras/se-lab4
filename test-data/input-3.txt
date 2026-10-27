@@ -1,0 +1,5 @@
+# Ship with 0 in primary and 2 in secondary
+GT4500,0,0,2,0
+TORPEDO,SINGLE  # primary empty, fires secondary -> SUCCESS
+TORPEDO,SINGLE  # secondary fires again -> SUCCESS
+TORPEDO,SINGLE  # now both empty -> FAIL
