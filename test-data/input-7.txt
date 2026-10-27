@@ -1,0 +1,4 @@
+# primary has 0, secondary has 1
+GT4500,0,0,1,0
+TORPEDO,ALL
+TORPEDO,ALL
